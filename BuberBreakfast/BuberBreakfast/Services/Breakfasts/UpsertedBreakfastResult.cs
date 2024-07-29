@@ -1,0 +1,1 @@
+public record struct UpsertBreakfast(bool isNewlyCreated);
