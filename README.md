@@ -15,7 +15,9 @@ BuberBreakfast is a RESTful API designed to manage breakfast events. This API al
 
 <p align="center">
 Main Page <br/>
-<img src="https://imgur.com/X66oETV" height="80%" width="80%" alt="BuberBreakfasst"/>
+<img src="https://imgur.com/I5kNmVJ.png" height="40%" width="80%" alt="BuberBreakfast"/>
+ <br/>
+In Progress <br/>
 <br />
 
 <!--
